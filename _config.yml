@@ -53,8 +53,8 @@ swc_post_survey: "https://www.surveymonkey.com/results/SM-9BLWRRCXV/"
 training_post_survey: "https://www.surveymonkey.com/r/post-instructor-training"
 dc_pre_survey: "https://www.surveymonkey.com/results/SM-MKMMRRCXV/"
 dc_post_survey: "https://www.surveymonkey.com/results/SM-9BLWRRCXV/"
-lc_pre_survey: "https://www.surveymonkey.com/r/lcpreworkshopsurvey?workshop_id="
-lc_post_survey: "https://www.surveymonkey.com/r/lcpostworkshopsurvey?workshop_id="
+lc_pre_survey: "https://www.surveymonkey.com/results/SM-MKMMRRCXV/"
+lc_post_survey: "https://www.surveymonkey.com/results/SM-9BLWRRCXV/"
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
 start_time: 0
